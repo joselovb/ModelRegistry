@@ -1,4 +1,13 @@
 # Databricks notebook source
+print("hello world!")
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC select * from 
+
+# COMMAND ----------
+
 # MAGIC %pip install ..
 
 # COMMAND ----------
